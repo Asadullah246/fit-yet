@@ -1,1 +1,1207 @@
-{"sections":{"162766312376154f68":{"type":"index-slideshow","blocks":{"91dac8a3-8859-4387-8955-8fe3b1605a76":{"type":"image","settings":{"bg_animation":"bg-pan-br","image":"shopify:\/\/shop_images\/new-arrival-removebg-preview.png","img_alignment":"center","bg_pos_mobile":50,"use_bgo":true,"bg_color":"#313f31","bg_color_opacity":0.6,"caption_animation":"none","inverted":false,"caption_position":"center","caption_align":"center","caption_size":"large","inset_block":"3% 0% 0% 0","use_bgc":false,"bgc_color":"","bgc_color_opacity":0.5,"item_title_1":"<p><strong>SPORT <br\/>& FITNESS<\/strong><\/p>","title_animation":"none","color_title":"{{ shop.brand.colors.primary[0].background }}","item_subtitle_1":"<p>NEW SPRING COLLECTION<\/p>","subtitle_animation":"none","color_subtitle":"{{ shop.brand.colors.primary[0].background }}","item_text_1":"","color_text":"{{ shop.brand.colors.primary[0].background }}","url_text":"Shop now","slide_link":"shopify:\/\/collections\/all","btn_style":"btn-default","btn_size":"btn-md","slide_video_on":false,"item_url":"https:\/\/www.youtube.com\/embed\/KU6fYlSsvkI","url_text_2":"Shop now","slide_link_2":"","btn_style_2":"btn-primary","btn_size_2":"btn-md","margin_title":19,"margin_text":23,"margin_btn":35}},"162766312376154f68-0":{"type":"image","settings":{"bg_animation":"bg-pan-br","image":"shopify:\/\/shop_images\/featured-products-removebg-preview.png","img_alignment":"center","bg_pos_mobile":50,"use_bgo":true,"bg_color":"#313f31","bg_color_opacity":0.6,"caption_animation":"none","inverted":false,"caption_position":"center","caption_align":"center","caption_size":"large","inset_block":"3% 0% 0% 0","use_bgc":false,"bgc_color":"#ed2020","bgc_color_opacity":0.5,"item_title_1":"<p><strong>EXCITING <\/strong><\/p><p><strong>DEALS<\/strong><\/p>","title_animation":"none","color_title":"#ffffff","item_subtitle_1":"<p>NEW COLLECTION 2023<\/p>","subtitle_animation":"none","color_subtitle":"#ffffff","item_text_1":"<p>We belong to those runners and fitness enthusiasts who <\/p><p>believe that sport unites people.<\/p>","color_text":"#ffffff","url_text":"shop now","slide_link":"shopify:\/\/collections\/all","btn_style":"btn-default","btn_size":"btn-md","slide_video_on":false,"item_url":"https:\/\/www.youtube.com\/embed\/KU6fYlSsvkI","url_text_2":"Shop now","slide_link_2":"","btn_style_2":"btn-primary","btn_size_2":"btn-md","margin_title":15,"margin_text":15,"margin_btn":35}},"b0144459-f21b-4416-968b-cf47c708725a":{"type":"image","settings":{"bg_animation":"bg-pan-br","image":"shopify:\/\/shop_images\/yoga-removebg-preview.png","img_alignment":"center","bg_pos_mobile":50,"use_bgo":true,"bg_color":"#313f31","bg_color_opacity":0.6,"caption_animation":"none","inverted":false,"caption_position":"center","caption_align":"center","caption_size":"large","inset_block":"3% 0% 0% 0","use_bgc":false,"bgc_color":"","bgc_color_opacity":0.5,"item_title_1":"<p><strong>IN EVERY <\/strong><\/p><p><strong>DIRECTION<\/strong><\/p>","title_animation":"none","color_title":"#ffffff","item_subtitle_1":"<p>BEST-LOOKING FITNESS CLOTHING<\/p>","subtitle_animation":"none","color_subtitle":"#ffffff","item_text_1":"","color_text":"#ffffff","url_text":"shop now","slide_link":"shopify:\/\/collections\/all","btn_style":"btn-default","btn_size":"btn-md","slide_video_on":false,"item_url":"","url_text_2":"Shop now","slide_link_2":"","btn_style_2":"btn-primary","btn_size_2":"btn-md","margin_title":15,"margin_text":15,"margin_btn":35}}},"block_order":["91dac8a3-8859-4387-8955-8fe3b1605a76","162766312376154f68-0","b0144459-f21b-4416-968b-cf47c708725a"],"settings":{"container_width":"full-width","slideshow_img_type":"img","padding_desktop":350,"padding_mobile":210,"slideshow_height":"large","autoplay":true,"autoplay_delay":"5000","autoplay_speed":"3000","slideshow_pagination":"navigation","slideshow_effect":"slide"}},"1ea28712-363c-4541-a91d-3dde85243fa9":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":19,"padding_bottom":24,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":8,"tablet_padding_bottom":12,"tablet_margin_top":0,"tablet_margin_bottom":0}},"59dafedb-cc24-4699-bbbd-673d2f9b9af4":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":10,"padding_bottom":10,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"59829a43-d5b7-40e5-8166-13a286498ded":{"type":"index-divider","disabled":true,"settings":{"section_view":"container","type_value":"px","padding_top":19,"padding_bottom":20,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"d056196f-f342-45a7-a17d-586a97359f5f":{"type":"index-image-with-text-column","disabled":true,"blocks":{"65134e6d-99da-4de1-978d-f1ff5f4a2992":{"type":"heading_h1","settings":{"heading_h1":"<p><strong>Home Training<\/strong><\/p>","color":"#121212","indent_block":"0","inset_block":"0 0 0 0","offset_block":"5% 0 0 0","use_bgi":false,"caption_bg_color":"","caption_bg_color_opacity":0.5}},"template--17967542010130__d056196f-f342-45a7-a17d-586a97359f5f-167696906446b686cb-3":{"type":"button","settings":{"button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/all","use_button":true,"btn_style":"btn-primary","btn_size":"btn-lg","offset_block":"5% 0 0 0"}}},"block_order":["65134e6d-99da-4de1-978d-f1ff5f4a2992","template--17967542010130__d056196f-f342-45a7-a17d-586a97359f5f-167696906446b686cb-3"],"settings":{"container_width":"container","reset_indent":false,"column_dir":"row","inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px","bg_section":"#ffffff","image":"shopify:\/\/shop_images\/7.png","image_column":"6","use_bgimg":false,"image_bg_color":"","image_bg_color_opacity":0.5,"inset_image":"0px 0px 0px 0px","caption_column":"6","caption_align_v":"center","text_align":"left","inverted":false,"use_caption_bg":false,"caption_bg_color":"","caption_bg_color_opacity":0.5,"inset_caption":"6% 7% 6% 7%"}},"16414608074ede0d57":{"type":"index-banners","disabled":true,"blocks":{"1641460807c5326dac-0":{"type":"banner","settings":{"image":"shopify:\/\/shop_images\/7_2048x2_2d8021cd-2edf-41b2-b7c8-2ecbba0c4c88.png","width":"6","banner_style":"standard","off_overlay_mobile":false,"use_bgb":false,"bgb_color":"","bgb_color_opacity":0.5,"inset_block":"0 0 0 0","use_bottom_offset_mobile":true,"margin_bottom":30,"use_bgo":false,"bg_color":"","bg_color_opacity":0.5,"inverted":false,"h_cpos":"center","v_cpos":"start","reverse_cpos":"flex-column","textalign_pos":"center","item_title":"<p><strong>Home Training<\/strong><\/p>","color_title":"#000000","item_subtitle":"","color_subtitle":"#000000","item_text":"","color_text":"#797b7e","custom_heading":"","color_ch":"#797b7e","caption_size":"large","inset_caption":"3% 7% 6% 0%","item_link":"shopify:\/\/collections\/all","link_text":"Shop now","link_type_banner":false,"btn_style":"btn-primary","btn_size":"btn-md","margin_title":22,"margin_text":15,"margin_btn":35,"custom_class":""}},"1641460807c5326dac-1":{"type":"banner","settings":{"image":"shopify:\/\/shop_images\/8_2048x2_bc220d7c-601a-4b76-aa76-47fb6230c62d.png","width":"6","banner_style":"standard","off_overlay_mobile":false,"use_bgb":false,"bgb_color":"","bgb_color_opacity":0.5,"inset_block":"0 0 0 0","use_bottom_offset_mobile":true,"margin_bottom":30,"use_bgo":false,"bg_color":"","bg_color_opacity":0.5,"inverted":false,"h_cpos":"center","v_cpos":"start","reverse_cpos":"flex-column","textalign_pos":"center","item_title":"<p><strong>GYM TRAINING<\/strong><\/p>","color_title":"#000000","item_subtitle":"","color_subtitle":"#000000","item_text":"","color_text":"#797b7e","custom_heading":"","color_ch":"#797b7e","caption_size":"large","inset_caption":"3% 7% 6% 0%","item_link":"shopify:\/\/collections\/all","link_text":"Shop now","link_type_banner":false,"btn_style":"btn-primary","btn_size":"btn-md","margin_title":22,"margin_text":15,"margin_btn":35,"custom_class":""}}},"block_order":["1641460807c5326dac-0","1641460807c5326dac-1"],"settings":{"section_title":"","desc":"","container_width":"container","reset_indent":false,"bg_section":"#ffffff","inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px"}},"1641461809a3f9d929":{"type":"index-featured-products","blocks":{"164146180985472fc0-0":{"type":"collection_tab","settings":{"section_title":"","block_collection_title":"","block_collection":"featured-products"}}},"block_order":["164146180985472fc0-0"],"custom_css":["{width: 75vw; margin: auto;}"],"settings":{"section_title":"FEATURED PRODUCTS","section_subtitle":"","container_width":"container","bg_section":"#ffffff","inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px","reset_indent":false,"use_tabs":false,"all_view":false,"products_count":"4","column_item":"25%","carousel_view":false,"products_view":"4","off_carousel_nav":false,"off_carousel_pag":false,"carousel_control_type":"pagination","design_type":"type_1"}},"59c7e1fe-045d-481c-ae81-5940a184a33c":{"type":"index-image-with-text-column","disabled":true,"blocks":{"27118afc-6885-4140-9ad7-aec2f641fd22":{"type":"heading_h1","settings":{"heading_h1":"<p><strong>GYM Training<\/strong><\/p>","color":"#121212","indent_block":"0","inset_block":"0 0 0 0","offset_block":"5% 0 0 0","use_bgi":false,"caption_bg_color":"","caption_bg_color_opacity":0.5}},"4e4f4b24-93d0-47b9-b7ca-71a1121e6233":{"type":"button","settings":{"button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/all","use_button":true,"btn_style":"btn-primary","btn_size":"btn-lg","offset_block":"5% 0 0 0"}}},"block_order":["27118afc-6885-4140-9ad7-aec2f641fd22","4e4f4b24-93d0-47b9-b7ca-71a1121e6233"],"settings":{"container_width":"container","reset_indent":false,"column_dir":"row-reverse","inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px","bg_section":"#ffffff","image":"shopify:\/\/shop_images\/8.png","image_column":"6","use_bgimg":false,"image_bg_color":"","image_bg_color_opacity":0.5,"inset_image":"0px 0px 0px 0px","caption_column":"6","caption_align_v":"center","text_align":"left","inverted":false,"use_caption_bg":false,"caption_bg_color":"","caption_bg_color_opacity":0.5,"inset_caption":"6% 7% 6% 7%"}},"96bad788-1526-4ec9-9b07-d75c2348a844":{"type":"index-blog-articles","disabled":true,"settings":{"container_width":"container","reset_indent":false,"inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px","bg_section":"#ffffff","section_title":"<p>Blog<\/p>","item_text":"<p>Blog description<\/p>","show_view_all":false,"style":"type_h_2","section_blog":"news","post_layout":"grid","textalign_pos":"center","column_item":"33%","section_blog_limit":"3","blog_image_ratio":"adapt","blog_show_info":true,"blog_show_author":true,"blog_show_date":true,"show_comments":true,"blog_show_tags":false,"caption_absolute":false,"blog_caption_position":"center","inset_caption":"0","inverted":false,"desc_none":false,"hide_img":false,"link_style":"link","use_blog_image_overlay":false,"blog_image_color":"","blog_image_color_opacity":0.2,"carousel_view":false,"post_view":"3","off_carousel_nav":false,"off_carousel_pag":false,"carousel_control_type":"pagination"}},"3952540d-21e8-432e-a27a-d6e55d326cb9":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":8,"padding_bottom":13,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"1641455547ad5693ee":{"type":"index-banners","disabled":true,"blocks":{"1641455547b4e881da-0":{"type":"banner","settings":{"image":"shopify:\/\/shop_images\/5.png","width":"6","banner_style":"overlay","off_overlay_mobile":false,"use_bgb":false,"bgb_color":"","bgb_color_opacity":0.5,"inset_block":"0 0 0 0","use_bottom_offset_mobile":true,"margin_bottom":30,"use_bgo":false,"bg_color":"","bg_color_opacity":0.5,"inverted":false,"h_cpos":"end","v_cpos":"center","reverse_cpos":"flex-column","textalign_pos":"right","item_title":"<p>200+ BRANDS<br\/><strong>AT YOUR DISPOSAL<\/strong><\/p>","color_title":"#000000","item_subtitle":"","color_subtitle":"#000000","item_text":"","color_text":"#797b7e","custom_heading":"","color_ch":"#797b7e","caption_size":"small","inset_caption":"6% 7% 6% 7%","item_link":"shopify:\/\/collections\/all","link_text":"","link_type_banner":false,"btn_style":"btn-primary","btn_size":"btn-md","margin_title":22,"margin_text":15,"margin_btn":35,"custom_class":""}},"13b29636-b1d5-4fb4-9a82-63debf427a3d":{"type":"banner","settings":{"image":"shopify:\/\/shop_images\/6.png","width":"6","banner_style":"overlay","off_overlay_mobile":false,"use_bgb":false,"bgb_color":"","bgb_color_opacity":0.5,"inset_block":"0 0 0 0","use_bottom_offset_mobile":true,"margin_bottom":30,"use_bgo":false,"bg_color":"","bg_color_opacity":0.5,"inverted":false,"h_cpos":"end","v_cpos":"center","reverse_cpos":"flex-column","textalign_pos":"right","item_title":"<p><strong>High Quality<\/strong><\/p><p>Fitness Clothing<\/p>","color_title":"#ffffff","item_subtitle":"","color_subtitle":"#000000","item_text":"","color_text":"#797b7e","custom_heading":"","color_ch":"#797b7e","caption_size":"small","inset_caption":"6% 7% 6% 7%","item_link":"shopify:\/\/collections\/all","link_text":"","link_type_banner":false,"btn_style":"btn-primary","btn_size":"btn-md","margin_title":22,"margin_text":15,"margin_btn":35,"custom_class":""}}},"block_order":["1641455547b4e881da-0","13b29636-b1d5-4fb4-9a82-63debf427a3d"],"settings":{"section_title":"","desc":"","container_width":"container","reset_indent":false,"bg_section":"#ffffff","inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px"}},"cf2a4cbc-8579-414f-9378-b7844c48e878":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":18,"padding_bottom":0,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"aff7dc91-267d-4f99-8ae7-957c19a3a839":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":10,"padding_bottom":5,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"42f2cefe-9090-47ad-80ec-99db8b304a82":{"type":"index-featured-products","blocks":{"template--17967542010130__42f2cefe-9090-47ad-80ec-99db8b304a82-167697087406bcb5fe-0":{"type":"collection_tab","settings":{"section_title":"NEW ARRIVAL","block_collection_title":"Best Selling","block_collection":"fitness-gear"}}},"block_order":["template--17967542010130__42f2cefe-9090-47ad-80ec-99db8b304a82-167697087406bcb5fe-0"],"custom_css":["{width: 75vw; margin: auto;}"],"settings":{"section_title":"NEW ARRIVAL","section_subtitle":"","container_width":"container","bg_section":"#ffffff","inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px","reset_indent":true,"use_tabs":true,"all_view":true,"products_count":"4","column_item":"25%","carousel_view":true,"products_view":"4","off_carousel_nav":true,"off_carousel_pag":false,"carousel_control_type":"progressbar","design_type":"type_3"}},"a7621344-ee07-438b-a2b7-cd66fbf7423d":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":14,"padding_bottom":16,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"8693e4f3-4865-4661-bb2f-7938f494f63d":{"type":"index-slideshow","disabled":true,"blocks":{"template--17967542010130__8693e4f3-4865-4661-bb2f-7938f494f63d-1677474333f74ec846-0":{"type":"image","settings":{"bg_animation":"none","img_alignment":"top","bg_pos_mobile":50,"use_bgo":false,"bg_color":"","bg_color_opacity":0.5,"caption_animation":"none","inverted":false,"caption_position":"center","caption_align":"center","caption_size":"medium","inset_block":"6% 7% 6% 7%","use_bgc":false,"bgc_color":"","bgc_color_opacity":0.5,"item_title_1":"<p>Slideshow Title<\/p>","title_animation":"none","color_title":"#121212","item_subtitle_1":"<p>Caption text<\/p>","subtitle_animation":"none","color_subtitle":"#121212","item_text_1":"<p>Caption text<\/p>","color_text":"#797b7e","url_text":"Shop now","slide_link":"","btn_style":"btn-primary","btn_size":"btn-md","slide_video_on":false,"item_url":"https:\/\/www.youtube.com\/embed\/KU6fYlSsvkI","url_text_2":"Shop now","slide_link_2":"","btn_style_2":"btn-primary","btn_size_2":"btn-md","margin_title":19,"margin_text":23,"margin_btn":30}},"template--17967542010130__8693e4f3-4865-4661-bb2f-7938f494f63d-1677474333f74ec846-1":{"type":"image","settings":{"bg_animation":"none","img_alignment":"top","bg_pos_mobile":50,"use_bgo":false,"bg_color":"","bg_color_opacity":0.5,"caption_animation":"none","inverted":false,"caption_position":"center","caption_align":"center","caption_size":"medium","inset_block":"6% 7% 6% 7%","use_bgc":false,"bgc_color":"","bgc_color_opacity":0.5,"item_title_1":"<p>Slideshow Title<\/p>","title_animation":"none","color_title":"#121212","item_subtitle_1":"<p>Caption text<\/p>","subtitle_animation":"none","color_subtitle":"#121212","item_text_1":"<p>Caption text<\/p>","color_text":"#797b7e","url_text":"Shop now","slide_link":"","btn_style":"btn-primary","btn_size":"btn-md","slide_video_on":false,"item_url":"https:\/\/www.youtube.com\/embed\/KU6fYlSsvkI","url_text_2":"Shop now","slide_link_2":"","btn_style_2":"btn-primary","btn_size_2":"btn-md","margin_title":19,"margin_text":23,"margin_btn":30}}},"block_order":["template--17967542010130__8693e4f3-4865-4661-bb2f-7938f494f63d-1677474333f74ec846-0","template--17967542010130__8693e4f3-4865-4661-bb2f-7938f494f63d-1677474333f74ec846-1"],"settings":{"container_width":"container","slideshow_img_type":"bg","padding_desktop":400,"padding_mobile":210,"slideshow_height":"small","autoplay":true,"autoplay_delay":"10000","autoplay_speed":"4000","slideshow_pagination":"progressbar","slideshow_effect":"slide"}},"1641457524d64a966e":{"type":"index-featured-products","blocks":{"164145752446b9f6b5-0":{"type":"collection_tab","settings":{"section_title":"","block_collection_title":"","block_collection":"best-selling-collection"}}},"block_order":["164145752446b9f6b5-0"],"custom_css":["{width: 75vw; margin: auto;}"],"settings":{"section_title":"NEW PRODUCTS","section_subtitle":"","container_width":"container","bg_section":"#ffffff","inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px","reset_indent":false,"use_tabs":false,"all_view":true,"products_count":"4","column_item":"25%","carousel_view":true,"products_view":"4","off_carousel_nav":false,"off_carousel_pag":true,"carousel_control_type":"pagination","design_type":"type_1"}},"52fbab42-4293-47cc-a9a0-4503a5bf29f4":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":18,"padding_bottom":0,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"1627899736175f45d2":{"type":"index-divider","settings":{"section_view":"container","type_value":"vw","padding_top":0,"padding_bottom":0,"padding_top_vw":4.5,"padding_bottom_vw":0,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":26,"tablet_padding_bottom":24,"tablet_margin_top":0,"tablet_margin_bottom":0}},"86b7a21b-6e13-4809-b9b4-3723840f2663":{"type":"index-collection-list","blocks":{"template--17967542010130__86b7a21b-6e13-4809-b9b4-3723840f2663-1676971742ec8ccfc7-0":{"type":"featured_collection","settings":{"item_collection":"accessories","column_item":"4","position-caption":"bottom","caption_bg_color":"#ffffff","caption_bg_color_opacity":0,"item_img":"shopify:\/\/shop_images\/Accessories.jpg","custom_collection_class":""}},"template--17967542010130__86b7a21b-6e13-4809-b9b4-3723840f2663-1676971742ec8ccfc7-1":{"type":"featured_collection","settings":{"item_collection":"featured-products","column_item":"4","position-caption":"bottom","caption_bg_color":"#ffffff","caption_bg_color_opacity":0,"item_img":"shopify:\/\/shop_images\/featured-products.jpg","custom_collection_class":""}},"dbb24d1c-47fa-4444-b382-329e95e7f44c":{"type":"featured_collection","settings":{"item_collection":"fitness-gear","column_item":"4","position-caption":"bottom","caption_bg_color":"#ffffff","caption_bg_color_opacity":0,"item_img":"shopify:\/\/shop_images\/fitness-gear.jpg","custom_collection_class":""}},"aa6e94be-acd4-435b-9eee-579c1ed41706":{"type":"featured_collection","settings":{"item_collection":"new-arrivals","column_item":"4","position-caption":"bottom","caption_bg_color":"#ffffff","caption_bg_color_opacity":0,"item_img":"shopify:\/\/shop_images\/new-arrival.jpg","custom_collection_class":""}},"711732b0-78c5-4418-a6d6-2f06a2cb2920":{"type":"featured_collection","settings":{"item_collection":"weightlifting","column_item":"4","position-caption":"bottom","caption_bg_color":"#ffffff","caption_bg_color_opacity":0,"item_img":"shopify:\/\/shop_images\/weightlifting.jpg","custom_collection_class":""}},"5cbfbac4-56d9-4b30-bcdc-c404fbeaf375":{"type":"featured_collection","settings":{"item_collection":"yoga","column_item":"4","position-caption":"bottom","caption_bg_color":"#ffffff","caption_bg_color_opacity":0,"item_img":"shopify:\/\/shop_images\/yoga.jpg","custom_collection_class":""}},"14712dc9-949c-474f-8b9c-9ab501277e6a":{"type":"featured_collection","settings":{"item_collection":"supplements-and-vitamins","column_item":"4","position-caption":"bottom","caption_bg_color":"#ffffff","caption_bg_color_opacity":0,"custom_collection_class":""}}},"block_order":["template--17967542010130__86b7a21b-6e13-4809-b9b4-3723840f2663-1676971742ec8ccfc7-0","template--17967542010130__86b7a21b-6e13-4809-b9b4-3723840f2663-1676971742ec8ccfc7-1","dbb24d1c-47fa-4444-b382-329e95e7f44c","aa6e94be-acd4-435b-9eee-579c1ed41706","711732b0-78c5-4418-a6d6-2f06a2cb2920","5cbfbac4-56d9-4b30-bcdc-c404fbeaf375","14712dc9-949c-474f-8b9c-9ab501277e6a"],"custom_css":["{width: 75vw; margin: auto;}"],"settings":{"container_width":"container","reset_indent":true,"inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px","bg_section":"#ffffff","item_heading":"","item_text":"","show_items_count":true,"style":"type_h_1","image_ratio":"portrait","img_alignment":"top","show_view_all":false,"show_carousel":true}},"0e247d1e-f9dc-4cbc-aa0b-3fb3f9ef7105":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":23,"padding_bottom":26,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"164145554029689e88":{"type":"index-image-with-text-column","blocks":{"2ec91da9-c372-4bb4-bd72-559d711d94cb":{"type":"heading_h1","settings":{"heading_h1":"<p>BECAUSE<br\/><strong>YOU MOVE<\/strong><\/p>","color":"#000000","indent_block":"0","inset_block":"0 0 0 0","offset_block":"0% 0 0 0","use_bgi":false,"caption_bg_color":"","caption_bg_color_opacity":0.5}},"16414555396cb2c2dd-2":{"type":"text","settings":{"text":"<p>We belong to those runners and fitness enthusiasts who believe that sport unites people. As we are passionate about fitness ourselves, we’ll be happy to assist you so that you can enjoy it fully, too. Either you are an active member of a fitness community or just a novice, you’ll find all the items which you need for the best fitness experience. <\/p>","text_size":"default","color":"#333333","inset_block":"0 0 0 0","offset_block":"21px 0 0 0","use_bgi":false,"caption_bg_color":"","caption_bg_color_opacity":0.5}},"16414555396cb2c2dd-3":{"type":"button","settings":{"button_label":"shop now","button_link":"shopify:\/\/collections\/all","use_button":true,"btn_style":"btn-primary","btn_size":"btn-sm","offset_block":"21px 0 0 0"}}},"block_order":["2ec91da9-c372-4bb4-bd72-559d711d94cb","16414555396cb2c2dd-2","16414555396cb2c2dd-3"],"custom_css":["{width: 75vw; margin: auto;}"],"settings":{"container_width":"container","reset_indent":false,"column_dir":"row","inset_section":"0px 0px 0px 0px","offset_section":"0px 0px 0px 0px","bg_section":"#ffffff","image":"shopify:\/\/shop_images\/4.png","image_column":"4","use_bgimg":false,"image_bg_color":"","image_bg_color_opacity":0.5,"inset_image":"0px 0px 0px 0px","caption_column":"9","caption_align_v":"start","text_align":"left","inverted":false,"use_caption_bg":false,"caption_bg_color":"","caption_bg_color_opacity":0.6,"inset_caption":"2% 4% 0% 18%"}},"23fb80f9-ca9a-4a97-941c-c140eea52673":{"type":"index-divider","settings":{"section_view":"container","type_value":"px","padding_top":21,"padding_bottom":12,"padding_top_vw":1.5,"padding_bottom_vw":1.5,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":20,"tablet_padding_bottom":20,"tablet_margin_top":0,"tablet_margin_bottom":0}},"162789999412c565b2":{"type":"index-divider","settings":{"section_view":"container","type_value":"vw","padding_top":14,"padding_bottom":12,"padding_top_vw":2.4,"padding_bottom_vw":0,"margin_top":0,"margin_bottom":0,"background_color":"","tablet_padding_top":26,"tablet_padding_bottom":26,"tablet_margin_top":0,"tablet_margin_bottom":0}}},"order":["162766312376154f68","1ea28712-363c-4541-a91d-3dde85243fa9","59dafedb-cc24-4699-bbbd-673d2f9b9af4","59829a43-d5b7-40e5-8166-13a286498ded","d056196f-f342-45a7-a17d-586a97359f5f","16414608074ede0d57","1641461809a3f9d929","59c7e1fe-045d-481c-ae81-5940a184a33c","96bad788-1526-4ec9-9b07-d75c2348a844","3952540d-21e8-432e-a27a-d6e55d326cb9","1641455547ad5693ee","cf2a4cbc-8579-414f-9378-b7844c48e878","aff7dc91-267d-4f99-8ae7-957c19a3a839","42f2cefe-9090-47ad-80ec-99db8b304a82","a7621344-ee07-438b-a2b7-cd66fbf7423d","8693e4f3-4865-4661-bb2f-7938f494f63d","1641457524d64a966e","52fbab42-4293-47cc-a9a0-4503a5bf29f4","1627899736175f45d2","86b7a21b-6e13-4809-b9b4-3723840f2663","0e247d1e-f9dc-4cbc-aa0b-3fb3f9ef7105","164145554029689e88","23fb80f9-ca9a-4a97-941c-c140eea52673","162789999412c565b2"]}
+{
+  "sections": {
+    "162766312376154f68": {
+      "type": "index-slideshow",
+      "blocks": {
+        "91dac8a3-8859-4387-8955-8fe3b1605a76": {
+          "type": "image",
+          "settings": {
+            "bg_animation": "bg-pan-br",
+            "image": "shopify:\/\/shop_images\/new-arrival-removebg-preview.png",
+            "img_alignment": "center",
+            "bg_pos_mobile": 50,
+            "use_bgo": true,
+            "bg_color": "#313f31",
+            "bg_color_opacity": 0.6,
+            "caption_animation": "none",
+            "inverted": false,
+            "caption_position": "center",
+            "caption_align": "center",
+            "caption_size": "large",
+            "inset_block": "3% 0% 0% 0",
+            "use_bgc": false,
+            "bgc_color": "",
+            "bgc_color_opacity": 0.5,
+            "item_title_1": "<p><strong>SPORT <br\/>& FITNESS<\/strong><\/p>",
+            "title_animation": "none",
+            "color_title": "{{ shop.brand.colors.primary[0].background }}",
+            "item_subtitle_1": "<p>NEW SPRING COLLECTION<\/p>",
+            "subtitle_animation": "none",
+            "color_subtitle": "{{ shop.brand.colors.primary[0].background }}",
+            "item_text_1": "",
+            "color_text": "{{ shop.brand.colors.primary[0].background }}",
+            "url_text": "Shop now",
+            "slide_link": "shopify:\/\/collections\/all",
+            "btn_style": "btn-default",
+            "btn_size": "btn-md",
+            "slide_video_on": false,
+            "item_url": "https:\/\/www.youtube.com\/embed\/KU6fYlSsvkI",
+            "url_text_2": "Shop now",
+            "slide_link_2": "",
+            "btn_style_2": "btn-primary",
+            "btn_size_2": "btn-md",
+            "margin_title": 19,
+            "margin_text": 23,
+            "margin_btn": 35
+          }
+        },
+        "162766312376154f68-0": {
+          "type": "image",
+          "settings": {
+            "bg_animation": "bg-pan-br",
+            "image": "shopify:\/\/shop_images\/featured-products-removebg-preview.png",
+            "img_alignment": "center",
+            "bg_pos_mobile": 50,
+            "use_bgo": true,
+            "bg_color": "#313f31",
+            "bg_color_opacity": 0.6,
+            "caption_animation": "none",
+            "inverted": false,
+            "caption_position": "center",
+            "caption_align": "center",
+            "caption_size": "large",
+            "inset_block": "3% 0% 0% 0",
+            "use_bgc": false,
+            "bgc_color": "#ed2020",
+            "bgc_color_opacity": 0.5,
+            "item_title_1": "<p><strong>EXCITING <\/strong><\/p><p><strong>DEALS<\/strong><\/p>",
+            "title_animation": "none",
+            "color_title": "#ffffff",
+            "item_subtitle_1": "<p>NEW COLLECTION 2023<\/p>",
+            "subtitle_animation": "none",
+            "color_subtitle": "#ffffff",
+            "item_text_1": "<p>We belong to those runners and fitness enthusiasts who <\/p><p>believe that sport unites people.<\/p>",
+            "color_text": "#ffffff",
+            "url_text": "shop now",
+            "slide_link": "shopify:\/\/collections\/all",
+            "btn_style": "btn-default",
+            "btn_size": "btn-md",
+            "slide_video_on": false,
+            "item_url": "https:\/\/www.youtube.com\/embed\/KU6fYlSsvkI",
+            "url_text_2": "Shop now",
+            "slide_link_2": "",
+            "btn_style_2": "btn-primary",
+            "btn_size_2": "btn-md",
+            "margin_title": 15,
+            "margin_text": 15,
+            "margin_btn": 35
+          }
+        },
+        "b0144459-f21b-4416-968b-cf47c708725a": {
+          "type": "image",
+          "settings": {
+            "bg_animation": "bg-pan-br",
+            "image": "shopify:\/\/shop_images\/yoga-removebg-preview.png",
+            "img_alignment": "center",
+            "bg_pos_mobile": 50,
+            "use_bgo": true,
+            "bg_color": "#313f31",
+            "bg_color_opacity": 0.6,
+            "caption_animation": "none",
+            "inverted": false,
+            "caption_position": "center",
+            "caption_align": "center",
+            "caption_size": "large",
+            "inset_block": "3% 0% 0% 0",
+            "use_bgc": false,
+            "bgc_color": "",
+            "bgc_color_opacity": 0.5,
+            "item_title_1": "<p><strong>IN EVERY <\/strong><\/p><p><strong>DIRECTION<\/strong><\/p>",
+            "title_animation": "none",
+            "color_title": "#ffffff",
+            "item_subtitle_1": "<p>BEST-LOOKING FITNESS CLOTHING<\/p>",
+            "subtitle_animation": "none",
+            "color_subtitle": "#ffffff",
+            "item_text_1": "",
+            "color_text": "#ffffff",
+            "url_text": "shop now",
+            "slide_link": "shopify:\/\/collections\/all",
+            "btn_style": "btn-default",
+            "btn_size": "btn-md",
+            "slide_video_on": false,
+            "item_url": "",
+            "url_text_2": "Shop now",
+            "slide_link_2": "",
+            "btn_style_2": "btn-primary",
+            "btn_size_2": "btn-md",
+            "margin_title": 15,
+            "margin_text": 15,
+            "margin_btn": 35
+          }
+        }
+      },
+      "block_order": [
+        "91dac8a3-8859-4387-8955-8fe3b1605a76",
+        "162766312376154f68-0",
+        "b0144459-f21b-4416-968b-cf47c708725a"
+      ],
+      "settings": {
+        "container_width": "full-width",
+        "slideshow_img_type": "img",
+        "padding_desktop": 350,
+        "padding_mobile": 210,
+        "slideshow_height": "large",
+        "autoplay": true,
+        "autoplay_delay": "5000",
+        "autoplay_speed": "3000",
+        "slideshow_pagination": "navigation",
+        "slideshow_effect": "slide"
+      }
+    },
+    "1ea28712-363c-4541-a91d-3dde85243fa9": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 19,
+        "padding_bottom": 24,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 8,
+        "tablet_padding_bottom": 12,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "59dafedb-cc24-4699-bbbd-673d2f9b9af4": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 10,
+        "padding_bottom": 10,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "59829a43-d5b7-40e5-8166-13a286498ded": {
+      "type": "index-divider",
+      "disabled": true,
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 19,
+        "padding_bottom": 20,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "d056196f-f342-45a7-a17d-586a97359f5f": {
+      "type": "index-image-with-text-column",
+      "disabled": true,
+      "blocks": {
+        "65134e6d-99da-4de1-978d-f1ff5f4a2992": {
+          "type": "heading_h1",
+          "settings": {
+            "heading_h1": "<p><strong>Home Training<\/strong><\/p>",
+            "color": "#121212",
+            "indent_block": "0",
+            "inset_block": "0 0 0 0",
+            "offset_block": "5% 0 0 0",
+            "use_bgi": false,
+            "caption_bg_color": "",
+            "caption_bg_color_opacity": 0.5
+          }
+        },
+        "template--17967542010130__d056196f-f342-45a7-a17d-586a97359f5f-167696906446b686cb-3": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all",
+            "use_button": true,
+            "btn_style": "btn-primary",
+            "btn_size": "btn-lg",
+            "offset_block": "5% 0 0 0"
+          }
+        }
+      },
+      "block_order": [
+        "65134e6d-99da-4de1-978d-f1ff5f4a2992",
+        "template--17967542010130__d056196f-f342-45a7-a17d-586a97359f5f-167696906446b686cb-3"
+      ],
+      "settings": {
+        "container_width": "container",
+        "reset_indent": false,
+        "column_dir": "row",
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "bg_section": "#ffffff",
+        "image": "shopify:\/\/shop_images\/7.png",
+        "image_column": "6",
+        "use_bgimg": false,
+        "image_bg_color": "",
+        "image_bg_color_opacity": 0.5,
+        "inset_image": "0px 0px 0px 0px",
+        "caption_column": "6",
+        "caption_align_v": "center",
+        "text_align": "left",
+        "inverted": false,
+        "use_caption_bg": false,
+        "caption_bg_color": "",
+        "caption_bg_color_opacity": 0.5,
+        "inset_caption": "6% 7% 6% 7%"
+      }
+    },
+    "16414608074ede0d57": {
+      "type": "index-banners",
+      "disabled": true,
+      "blocks": {
+        "1641460807c5326dac-0": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7_2048x2_2d8021cd-2edf-41b2-b7c8-2ecbba0c4c88.png",
+            "width": "6",
+            "banner_style": "standard",
+            "off_overlay_mobile": false,
+            "use_bgb": false,
+            "bgb_color": "",
+            "bgb_color_opacity": 0.5,
+            "inset_block": "0 0 0 0",
+            "use_bottom_offset_mobile": true,
+            "margin_bottom": 30,
+            "use_bgo": false,
+            "bg_color": "",
+            "bg_color_opacity": 0.5,
+            "inverted": false,
+            "h_cpos": "center",
+            "v_cpos": "start",
+            "reverse_cpos": "flex-column",
+            "textalign_pos": "center",
+            "item_title": "<p><strong>Home Training<\/strong><\/p>",
+            "color_title": "#000000",
+            "item_subtitle": "",
+            "color_subtitle": "#000000",
+            "item_text": "",
+            "color_text": "#797b7e",
+            "custom_heading": "",
+            "color_ch": "#797b7e",
+            "caption_size": "large",
+            "inset_caption": "3% 7% 6% 0%",
+            "item_link": "shopify:\/\/collections\/all",
+            "link_text": "Shop now",
+            "link_type_banner": false,
+            "btn_style": "btn-primary",
+            "btn_size": "btn-md",
+            "margin_title": 22,
+            "margin_text": 15,
+            "margin_btn": 35,
+            "custom_class": ""
+          }
+        },
+        "1641460807c5326dac-1": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8_2048x2_bc220d7c-601a-4b76-aa76-47fb6230c62d.png",
+            "width": "6",
+            "banner_style": "standard",
+            "off_overlay_mobile": false,
+            "use_bgb": false,
+            "bgb_color": "",
+            "bgb_color_opacity": 0.5,
+            "inset_block": "0 0 0 0",
+            "use_bottom_offset_mobile": true,
+            "margin_bottom": 30,
+            "use_bgo": false,
+            "bg_color": "",
+            "bg_color_opacity": 0.5,
+            "inverted": false,
+            "h_cpos": "center",
+            "v_cpos": "start",
+            "reverse_cpos": "flex-column",
+            "textalign_pos": "center",
+            "item_title": "<p><strong>GYM TRAINING<\/strong><\/p>",
+            "color_title": "#000000",
+            "item_subtitle": "",
+            "color_subtitle": "#000000",
+            "item_text": "",
+            "color_text": "#797b7e",
+            "custom_heading": "",
+            "color_ch": "#797b7e",
+            "caption_size": "large",
+            "inset_caption": "3% 7% 6% 0%",
+            "item_link": "shopify:\/\/collections\/all",
+            "link_text": "Shop now",
+            "link_type_banner": false,
+            "btn_style": "btn-primary",
+            "btn_size": "btn-md",
+            "margin_title": 22,
+            "margin_text": 15,
+            "margin_btn": 35,
+            "custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "1641460807c5326dac-0",
+        "1641460807c5326dac-1"
+      ],
+      "settings": {
+        "section_title": "",
+        "desc": "",
+        "container_width": "container",
+        "reset_indent": false,
+        "bg_section": "#ffffff",
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px"
+      }
+    },
+    "e4dffd86-a423-41c7-b600-7b3be2e46b67": {
+      "type": "index-custom-content",
+      "blocks": {
+        "template--18057029091602__e4dffd86-a423-41c7-b600-7b3be2e46b67-16776903092f8a7f50-0": {
+          "type": "image",
+          "settings": {
+            "width": "50%"
+          }
+        },
+        "template--18057029091602__e4dffd86-a423-41c7-b600-7b3be2e46b67-16776903092f8a7f50-1": {
+          "type": "text",
+          "settings": {
+            "custom_class": "",
+            "caption_size": "medium",
+            "h_cpos": "start",
+            "v_cpos": "start",
+            "item_title": "<p>Caption title<\/p>",
+            "color_title": "#121212",
+            "item_subtitle": "<p>Caption text<\/p>",
+            "color_subtitle": "#121212",
+            "item_text": "<p>Caption text<\/p>",
+            "color_text": "#797B7E",
+            "url_text": "Shop now",
+            "block_link": "",
+            "btn_style": "btn-primary",
+            "btn_size": "btn-md",
+            "width": "50%",
+            "align_text": "left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18057029091602__e4dffd86-a423-41c7-b600-7b3be2e46b67-16776903092f8a7f50-0",
+        "template--18057029091602__e4dffd86-a423-41c7-b600-7b3be2e46b67-16776903092f8a7f50-1"
+      ],
+      "settings": {
+        "custom_class": "",
+        "container_width": "container",
+        "reset_indent": false,
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "bg_section": "#ffffff",
+        "use_bg_grad2": false,
+        "title": "Asadullah Vai",
+        "inverted": false
+      }
+    },
+    "1641461809a3f9d929": {
+      "type": "index-featured-products",
+      "blocks": {
+        "164146180985472fc0-0": {
+          "type": "collection_tab",
+          "settings": {
+            "section_title": "",
+            "block_collection_title": "",
+            "block_collection": "featured-products"
+          }
+        }
+      },
+      "block_order": [
+        "164146180985472fc0-0"
+      ],
+      "custom_css": [
+        "{width: 75vw; margin: auto;}"
+      ],
+      "settings": {
+        "section_title": "FEATURED PRODUCTS",
+        "section_subtitle": "",
+        "container_width": "container",
+        "bg_section": "#ffffff",
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "reset_indent": false,
+        "use_tabs": false,
+        "all_view": false,
+        "products_count": "4",
+        "column_item": "25%",
+        "carousel_view": false,
+        "products_view": "4",
+        "off_carousel_nav": false,
+        "off_carousel_pag": false,
+        "carousel_control_type": "pagination",
+        "design_type": "type_1"
+      }
+    },
+    "59c7e1fe-045d-481c-ae81-5940a184a33c": {
+      "type": "index-image-with-text-column",
+      "disabled": true,
+      "blocks": {
+        "27118afc-6885-4140-9ad7-aec2f641fd22": {
+          "type": "heading_h1",
+          "settings": {
+            "heading_h1": "<p><strong>GYM Training<\/strong><\/p>",
+            "color": "#121212",
+            "indent_block": "0",
+            "inset_block": "0 0 0 0",
+            "offset_block": "5% 0 0 0",
+            "use_bgi": false,
+            "caption_bg_color": "",
+            "caption_bg_color_opacity": 0.5
+          }
+        },
+        "4e4f4b24-93d0-47b9-b7ca-71a1121e6233": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/all",
+            "use_button": true,
+            "btn_style": "btn-primary",
+            "btn_size": "btn-lg",
+            "offset_block": "5% 0 0 0"
+          }
+        }
+      },
+      "block_order": [
+        "27118afc-6885-4140-9ad7-aec2f641fd22",
+        "4e4f4b24-93d0-47b9-b7ca-71a1121e6233"
+      ],
+      "settings": {
+        "container_width": "container",
+        "reset_indent": false,
+        "column_dir": "row-reverse",
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "bg_section": "#ffffff",
+        "image": "shopify:\/\/shop_images\/8.png",
+        "image_column": "6",
+        "use_bgimg": false,
+        "image_bg_color": "",
+        "image_bg_color_opacity": 0.5,
+        "inset_image": "0px 0px 0px 0px",
+        "caption_column": "6",
+        "caption_align_v": "center",
+        "text_align": "left",
+        "inverted": false,
+        "use_caption_bg": false,
+        "caption_bg_color": "",
+        "caption_bg_color_opacity": 0.5,
+        "inset_caption": "6% 7% 6% 7%"
+      }
+    },
+    "96bad788-1526-4ec9-9b07-d75c2348a844": {
+      "type": "index-blog-articles",
+      "disabled": true,
+      "settings": {
+        "container_width": "container",
+        "reset_indent": false,
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "bg_section": "#ffffff",
+        "section_title": "<p>Blog<\/p>",
+        "item_text": "<p>Blog description<\/p>",
+        "show_view_all": false,
+        "style": "type_h_2",
+        "section_blog": "news",
+        "post_layout": "grid",
+        "textalign_pos": "center",
+        "column_item": "33%",
+        "section_blog_limit": "3",
+        "blog_image_ratio": "adapt",
+        "blog_show_info": true,
+        "blog_show_author": true,
+        "blog_show_date": true,
+        "show_comments": true,
+        "blog_show_tags": false,
+        "caption_absolute": false,
+        "blog_caption_position": "center",
+        "inset_caption": "0",
+        "inverted": false,
+        "desc_none": false,
+        "hide_img": false,
+        "link_style": "link",
+        "use_blog_image_overlay": false,
+        "blog_image_color": "",
+        "blog_image_color_opacity": 0.2,
+        "carousel_view": false,
+        "post_view": "3",
+        "off_carousel_nav": false,
+        "off_carousel_pag": false,
+        "carousel_control_type": "pagination"
+      }
+    },
+    "3952540d-21e8-432e-a27a-d6e55d326cb9": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 8,
+        "padding_bottom": 13,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "1641455547ad5693ee": {
+      "type": "index-banners",
+      "disabled": true,
+      "blocks": {
+        "1641455547b4e881da-0": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.png",
+            "width": "6",
+            "banner_style": "overlay",
+            "off_overlay_mobile": false,
+            "use_bgb": false,
+            "bgb_color": "",
+            "bgb_color_opacity": 0.5,
+            "inset_block": "0 0 0 0",
+            "use_bottom_offset_mobile": true,
+            "margin_bottom": 30,
+            "use_bgo": false,
+            "bg_color": "",
+            "bg_color_opacity": 0.5,
+            "inverted": false,
+            "h_cpos": "end",
+            "v_cpos": "center",
+            "reverse_cpos": "flex-column",
+            "textalign_pos": "right",
+            "item_title": "<p>200+ BRANDS<br\/><strong>AT YOUR DISPOSAL<\/strong><\/p>",
+            "color_title": "#000000",
+            "item_subtitle": "",
+            "color_subtitle": "#000000",
+            "item_text": "",
+            "color_text": "#797b7e",
+            "custom_heading": "",
+            "color_ch": "#797b7e",
+            "caption_size": "small",
+            "inset_caption": "6% 7% 6% 7%",
+            "item_link": "shopify:\/\/collections\/all",
+            "link_text": "",
+            "link_type_banner": false,
+            "btn_style": "btn-primary",
+            "btn_size": "btn-md",
+            "margin_title": 22,
+            "margin_text": 15,
+            "margin_btn": 35,
+            "custom_class": ""
+          }
+        },
+        "13b29636-b1d5-4fb4-9a82-63debf427a3d": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.png",
+            "width": "6",
+            "banner_style": "overlay",
+            "off_overlay_mobile": false,
+            "use_bgb": false,
+            "bgb_color": "",
+            "bgb_color_opacity": 0.5,
+            "inset_block": "0 0 0 0",
+            "use_bottom_offset_mobile": true,
+            "margin_bottom": 30,
+            "use_bgo": false,
+            "bg_color": "",
+            "bg_color_opacity": 0.5,
+            "inverted": false,
+            "h_cpos": "end",
+            "v_cpos": "center",
+            "reverse_cpos": "flex-column",
+            "textalign_pos": "right",
+            "item_title": "<p><strong>High Quality<\/strong><\/p><p>Fitness Clothing<\/p>",
+            "color_title": "#ffffff",
+            "item_subtitle": "",
+            "color_subtitle": "#000000",
+            "item_text": "",
+            "color_text": "#797b7e",
+            "custom_heading": "",
+            "color_ch": "#797b7e",
+            "caption_size": "small",
+            "inset_caption": "6% 7% 6% 7%",
+            "item_link": "shopify:\/\/collections\/all",
+            "link_text": "",
+            "link_type_banner": false,
+            "btn_style": "btn-primary",
+            "btn_size": "btn-md",
+            "margin_title": 22,
+            "margin_text": 15,
+            "margin_btn": 35,
+            "custom_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "1641455547b4e881da-0",
+        "13b29636-b1d5-4fb4-9a82-63debf427a3d"
+      ],
+      "settings": {
+        "section_title": "",
+        "desc": "",
+        "container_width": "container",
+        "reset_indent": false,
+        "bg_section": "#ffffff",
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px"
+      }
+    },
+    "cf2a4cbc-8579-414f-9378-b7844c48e878": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 18,
+        "padding_bottom": 0,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "aff7dc91-267d-4f99-8ae7-957c19a3a839": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 10,
+        "padding_bottom": 5,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "42f2cefe-9090-47ad-80ec-99db8b304a82": {
+      "type": "index-featured-products",
+      "blocks": {
+        "template--17967542010130__42f2cefe-9090-47ad-80ec-99db8b304a82-167697087406bcb5fe-0": {
+          "type": "collection_tab",
+          "settings": {
+            "section_title": "NEW ARRIVAL",
+            "block_collection_title": "Best Selling",
+            "block_collection": "fitness-gear"
+          }
+        }
+      },
+      "block_order": [
+        "template--17967542010130__42f2cefe-9090-47ad-80ec-99db8b304a82-167697087406bcb5fe-0"
+      ],
+      "custom_css": [
+        "{width: 75vw; margin: auto;}"
+      ],
+      "settings": {
+        "section_title": "NEW ARRIVAL",
+        "section_subtitle": "",
+        "container_width": "container",
+        "bg_section": "#ffffff",
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "reset_indent": true,
+        "use_tabs": true,
+        "all_view": true,
+        "products_count": "4",
+        "column_item": "25%",
+        "carousel_view": true,
+        "products_view": "4",
+        "off_carousel_nav": true,
+        "off_carousel_pag": false,
+        "carousel_control_type": "progressbar",
+        "design_type": "type_3"
+      }
+    },
+    "a7621344-ee07-438b-a2b7-cd66fbf7423d": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 14,
+        "padding_bottom": 16,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "8693e4f3-4865-4661-bb2f-7938f494f63d": {
+      "type": "index-slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--17967542010130__8693e4f3-4865-4661-bb2f-7938f494f63d-1677474333f74ec846-0": {
+          "type": "image",
+          "settings": {
+            "bg_animation": "none",
+            "img_alignment": "top",
+            "bg_pos_mobile": 50,
+            "use_bgo": false,
+            "bg_color": "",
+            "bg_color_opacity": 0.5,
+            "caption_animation": "none",
+            "inverted": false,
+            "caption_position": "center",
+            "caption_align": "center",
+            "caption_size": "medium",
+            "inset_block": "6% 7% 6% 7%",
+            "use_bgc": false,
+            "bgc_color": "",
+            "bgc_color_opacity": 0.5,
+            "item_title_1": "<p>Slideshow Title<\/p>",
+            "title_animation": "none",
+            "color_title": "#121212",
+            "item_subtitle_1": "<p>Caption text<\/p>",
+            "subtitle_animation": "none",
+            "color_subtitle": "#121212",
+            "item_text_1": "<p>Caption text<\/p>",
+            "color_text": "#797b7e",
+            "url_text": "Shop now",
+            "slide_link": "",
+            "btn_style": "btn-primary",
+            "btn_size": "btn-md",
+            "slide_video_on": false,
+            "item_url": "https:\/\/www.youtube.com\/embed\/KU6fYlSsvkI",
+            "url_text_2": "Shop now",
+            "slide_link_2": "",
+            "btn_style_2": "btn-primary",
+            "btn_size_2": "btn-md",
+            "margin_title": 19,
+            "margin_text": 23,
+            "margin_btn": 30
+          }
+        },
+        "template--17967542010130__8693e4f3-4865-4661-bb2f-7938f494f63d-1677474333f74ec846-1": {
+          "type": "image",
+          "settings": {
+            "bg_animation": "none",
+            "img_alignment": "top",
+            "bg_pos_mobile": 50,
+            "use_bgo": false,
+            "bg_color": "",
+            "bg_color_opacity": 0.5,
+            "caption_animation": "none",
+            "inverted": false,
+            "caption_position": "center",
+            "caption_align": "center",
+            "caption_size": "medium",
+            "inset_block": "6% 7% 6% 7%",
+            "use_bgc": false,
+            "bgc_color": "",
+            "bgc_color_opacity": 0.5,
+            "item_title_1": "<p>Slideshow Title<\/p>",
+            "title_animation": "none",
+            "color_title": "#121212",
+            "item_subtitle_1": "<p>Caption text<\/p>",
+            "subtitle_animation": "none",
+            "color_subtitle": "#121212",
+            "item_text_1": "<p>Caption text<\/p>",
+            "color_text": "#797b7e",
+            "url_text": "Shop now",
+            "slide_link": "",
+            "btn_style": "btn-primary",
+            "btn_size": "btn-md",
+            "slide_video_on": false,
+            "item_url": "https:\/\/www.youtube.com\/embed\/KU6fYlSsvkI",
+            "url_text_2": "Shop now",
+            "slide_link_2": "",
+            "btn_style_2": "btn-primary",
+            "btn_size_2": "btn-md",
+            "margin_title": 19,
+            "margin_text": 23,
+            "margin_btn": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--17967542010130__8693e4f3-4865-4661-bb2f-7938f494f63d-1677474333f74ec846-0",
+        "template--17967542010130__8693e4f3-4865-4661-bb2f-7938f494f63d-1677474333f74ec846-1"
+      ],
+      "settings": {
+        "container_width": "container",
+        "slideshow_img_type": "bg",
+        "padding_desktop": 400,
+        "padding_mobile": 210,
+        "slideshow_height": "small",
+        "autoplay": true,
+        "autoplay_delay": "10000",
+        "autoplay_speed": "4000",
+        "slideshow_pagination": "progressbar",
+        "slideshow_effect": "slide"
+      }
+    },
+    "1641457524d64a966e": {
+      "type": "index-featured-products",
+      "blocks": {
+        "164145752446b9f6b5-0": {
+          "type": "collection_tab",
+          "settings": {
+            "section_title": "",
+            "block_collection_title": "",
+            "block_collection": "best-selling-collection"
+          }
+        }
+      },
+      "block_order": [
+        "164145752446b9f6b5-0"
+      ],
+      "custom_css": [
+        "{width: 75vw; margin: auto;}"
+      ],
+      "settings": {
+        "section_title": "NEW PRODUCTS",
+        "section_subtitle": "",
+        "container_width": "container",
+        "bg_section": "#ffffff",
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "reset_indent": false,
+        "use_tabs": false,
+        "all_view": true,
+        "products_count": "4",
+        "column_item": "25%",
+        "carousel_view": true,
+        "products_view": "4",
+        "off_carousel_nav": false,
+        "off_carousel_pag": true,
+        "carousel_control_type": "pagination",
+        "design_type": "type_1"
+      }
+    },
+    "52fbab42-4293-47cc-a9a0-4503a5bf29f4": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 18,
+        "padding_bottom": 0,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "1627899736175f45d2": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "vw",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_top_vw": 4.5,
+        "padding_bottom_vw": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 26,
+        "tablet_padding_bottom": 24,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "86b7a21b-6e13-4809-b9b4-3723840f2663": {
+      "type": "index-collection-list",
+      "blocks": {
+        "template--17967542010130__86b7a21b-6e13-4809-b9b4-3723840f2663-1676971742ec8ccfc7-0": {
+          "type": "featured_collection",
+          "settings": {
+            "item_collection": "accessories",
+            "column_item": "4",
+            "position-caption": "bottom",
+            "caption_bg_color": "#ffffff",
+            "caption_bg_color_opacity": 0,
+            "item_img": "shopify:\/\/shop_images\/Accessories.jpg",
+            "custom_collection_class": ""
+          }
+        },
+        "template--17967542010130__86b7a21b-6e13-4809-b9b4-3723840f2663-1676971742ec8ccfc7-1": {
+          "type": "featured_collection",
+          "settings": {
+            "item_collection": "featured-products",
+            "column_item": "4",
+            "position-caption": "bottom",
+            "caption_bg_color": "#ffffff",
+            "caption_bg_color_opacity": 0,
+            "item_img": "shopify:\/\/shop_images\/featured-products.jpg",
+            "custom_collection_class": ""
+          }
+        },
+        "dbb24d1c-47fa-4444-b382-329e95e7f44c": {
+          "type": "featured_collection",
+          "settings": {
+            "item_collection": "fitness-gear",
+            "column_item": "4",
+            "position-caption": "bottom",
+            "caption_bg_color": "#ffffff",
+            "caption_bg_color_opacity": 0,
+            "item_img": "shopify:\/\/shop_images\/fitness-gear.jpg",
+            "custom_collection_class": ""
+          }
+        },
+        "aa6e94be-acd4-435b-9eee-579c1ed41706": {
+          "type": "featured_collection",
+          "settings": {
+            "item_collection": "new-arrivals",
+            "column_item": "4",
+            "position-caption": "bottom",
+            "caption_bg_color": "#ffffff",
+            "caption_bg_color_opacity": 0,
+            "item_img": "shopify:\/\/shop_images\/new-arrival.jpg",
+            "custom_collection_class": ""
+          }
+        },
+        "711732b0-78c5-4418-a6d6-2f06a2cb2920": {
+          "type": "featured_collection",
+          "settings": {
+            "item_collection": "weightlifting",
+            "column_item": "4",
+            "position-caption": "bottom",
+            "caption_bg_color": "#ffffff",
+            "caption_bg_color_opacity": 0,
+            "item_img": "shopify:\/\/shop_images\/weightlifting.jpg",
+            "custom_collection_class": ""
+          }
+        },
+        "5cbfbac4-56d9-4b30-bcdc-c404fbeaf375": {
+          "type": "featured_collection",
+          "settings": {
+            "item_collection": "yoga",
+            "column_item": "4",
+            "position-caption": "bottom",
+            "caption_bg_color": "#ffffff",
+            "caption_bg_color_opacity": 0,
+            "item_img": "shopify:\/\/shop_images\/yoga.jpg",
+            "custom_collection_class": ""
+          }
+        },
+        "14712dc9-949c-474f-8b9c-9ab501277e6a": {
+          "type": "featured_collection",
+          "settings": {
+            "item_collection": "supplements-and-vitamins",
+            "column_item": "4",
+            "position-caption": "bottom",
+            "caption_bg_color": "#ffffff",
+            "caption_bg_color_opacity": 0,
+            "custom_collection_class": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--17967542010130__86b7a21b-6e13-4809-b9b4-3723840f2663-1676971742ec8ccfc7-0",
+        "template--17967542010130__86b7a21b-6e13-4809-b9b4-3723840f2663-1676971742ec8ccfc7-1",
+        "dbb24d1c-47fa-4444-b382-329e95e7f44c",
+        "aa6e94be-acd4-435b-9eee-579c1ed41706",
+        "711732b0-78c5-4418-a6d6-2f06a2cb2920",
+        "5cbfbac4-56d9-4b30-bcdc-c404fbeaf375",
+        "14712dc9-949c-474f-8b9c-9ab501277e6a"
+      ],
+      "custom_css": [
+        "{width: 75vw; margin: auto;}"
+      ],
+      "settings": {
+        "container_width": "container",
+        "reset_indent": true,
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "bg_section": "#ffffff",
+        "item_heading": "",
+        "item_text": "",
+        "show_items_count": true,
+        "style": "type_h_1",
+        "image_ratio": "portrait",
+        "img_alignment": "top",
+        "show_view_all": false,
+        "show_carousel": true
+      }
+    },
+    "0e247d1e-f9dc-4cbc-aa0b-3fb3f9ef7105": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 23,
+        "padding_bottom": 26,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "164145554029689e88": {
+      "type": "index-image-with-text-column",
+      "blocks": {
+        "2ec91da9-c372-4bb4-bd72-559d711d94cb": {
+          "type": "heading_h1",
+          "settings": {
+            "heading_h1": "<p>BECAUSE<br\/><strong>YOU MOVE<\/strong><\/p>",
+            "color": "#000000",
+            "indent_block": "0",
+            "inset_block": "0 0 0 0",
+            "offset_block": "0% 0 0 0",
+            "use_bgi": false,
+            "caption_bg_color": "",
+            "caption_bg_color_opacity": 0.5
+          }
+        },
+        "16414555396cb2c2dd-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We belong to those runners and fitness enthusiasts who believe that sport unites people. As we are passionate about fitness ourselves, we’ll be happy to assist you so that you can enjoy it fully, too. Either you are an active member of a fitness community or just a novice, you’ll find all the items which you need for the best fitness experience. <\/p>",
+            "text_size": "default",
+            "color": "#333333",
+            "inset_block": "0 0 0 0",
+            "offset_block": "21px 0 0 0",
+            "use_bgi": false,
+            "caption_bg_color": "",
+            "caption_bg_color_opacity": 0.5
+          }
+        },
+        "16414555396cb2c2dd-3": {
+          "type": "button",
+          "settings": {
+            "button_label": "shop now",
+            "button_link": "shopify:\/\/collections\/all",
+            "use_button": true,
+            "btn_style": "btn-primary",
+            "btn_size": "btn-sm",
+            "offset_block": "21px 0 0 0"
+          }
+        }
+      },
+      "block_order": [
+        "2ec91da9-c372-4bb4-bd72-559d711d94cb",
+        "16414555396cb2c2dd-2",
+        "16414555396cb2c2dd-3"
+      ],
+      "custom_css": [
+        "{width: 75vw; margin: auto;}"
+      ],
+      "settings": {
+        "container_width": "container",
+        "reset_indent": false,
+        "column_dir": "row",
+        "inset_section": "0px 0px 0px 0px",
+        "offset_section": "0px 0px 0px 0px",
+        "bg_section": "#ffffff",
+        "image": "shopify:\/\/shop_images\/4.png",
+        "image_column": "4",
+        "use_bgimg": false,
+        "image_bg_color": "",
+        "image_bg_color_opacity": 0.5,
+        "inset_image": "0px 0px 0px 0px",
+        "caption_column": "9",
+        "caption_align_v": "start",
+        "text_align": "left",
+        "inverted": false,
+        "use_caption_bg": false,
+        "caption_bg_color": "",
+        "caption_bg_color_opacity": 0.6,
+        "inset_caption": "2% 4% 0% 18%"
+      }
+    },
+    "23fb80f9-ca9a-4a97-941c-c140eea52673": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "px",
+        "padding_top": 21,
+        "padding_bottom": 12,
+        "padding_top_vw": 1.5,
+        "padding_bottom_vw": 1.5,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 20,
+        "tablet_padding_bottom": 20,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    },
+    "162789999412c565b2": {
+      "type": "index-divider",
+      "settings": {
+        "section_view": "container",
+        "type_value": "vw",
+        "padding_top": 14,
+        "padding_bottom": 12,
+        "padding_top_vw": 2.4,
+        "padding_bottom_vw": 0,
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "background_color": "",
+        "tablet_padding_top": 26,
+        "tablet_padding_bottom": 26,
+        "tablet_margin_top": 0,
+        "tablet_margin_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "162766312376154f68",
+    "1ea28712-363c-4541-a91d-3dde85243fa9",
+    "59dafedb-cc24-4699-bbbd-673d2f9b9af4",
+    "59829a43-d5b7-40e5-8166-13a286498ded",
+    "d056196f-f342-45a7-a17d-586a97359f5f",
+    "16414608074ede0d57",
+    "e4dffd86-a423-41c7-b600-7b3be2e46b67",
+    "1641461809a3f9d929",
+    "59c7e1fe-045d-481c-ae81-5940a184a33c",
+    "96bad788-1526-4ec9-9b07-d75c2348a844",
+    "3952540d-21e8-432e-a27a-d6e55d326cb9",
+    "1641455547ad5693ee",
+    "cf2a4cbc-8579-414f-9378-b7844c48e878",
+    "aff7dc91-267d-4f99-8ae7-957c19a3a839",
+    "42f2cefe-9090-47ad-80ec-99db8b304a82",
+    "a7621344-ee07-438b-a2b7-cd66fbf7423d",
+    "8693e4f3-4865-4661-bb2f-7938f494f63d",
+    "1641457524d64a966e",
+    "52fbab42-4293-47cc-a9a0-4503a5bf29f4",
+    "1627899736175f45d2",
+    "86b7a21b-6e13-4809-b9b4-3723840f2663",
+    "0e247d1e-f9dc-4cbc-aa0b-3fb3f9ef7105",
+    "164145554029689e88",
+    "23fb80f9-ca9a-4a97-941c-c140eea52673",
+    "162789999412c565b2"
+  ]
+}
