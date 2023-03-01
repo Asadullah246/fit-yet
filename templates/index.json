@@ -362,53 +362,6 @@
         "offset_section": "0px 0px 0px 0px"
       }
     },
-    "e4dffd86-a423-41c7-b600-7b3be2e46b67": {
-      "type": "index-custom-content",
-      "blocks": {
-        "template--18057029091602__e4dffd86-a423-41c7-b600-7b3be2e46b67-16776903092f8a7f50-0": {
-          "type": "image",
-          "settings": {
-            "width": "50%"
-          }
-        },
-        "template--18057029091602__e4dffd86-a423-41c7-b600-7b3be2e46b67-16776903092f8a7f50-1": {
-          "type": "text",
-          "settings": {
-            "custom_class": "",
-            "caption_size": "medium",
-            "h_cpos": "start",
-            "v_cpos": "start",
-            "item_title": "<p>Caption title<\/p>",
-            "color_title": "#121212",
-            "item_subtitle": "<p>Caption text<\/p>",
-            "color_subtitle": "#121212",
-            "item_text": "<p>Caption text<\/p>",
-            "color_text": "#797B7E",
-            "url_text": "Shop now",
-            "block_link": "",
-            "btn_style": "btn-primary",
-            "btn_size": "btn-md",
-            "width": "50%",
-            "align_text": "left"
-          }
-        }
-      },
-      "block_order": [
-        "template--18057029091602__e4dffd86-a423-41c7-b600-7b3be2e46b67-16776903092f8a7f50-0",
-        "template--18057029091602__e4dffd86-a423-41c7-b600-7b3be2e46b67-16776903092f8a7f50-1"
-      ],
-      "settings": {
-        "custom_class": "",
-        "container_width": "container",
-        "reset_indent": false,
-        "inset_section": "0px 0px 0px 0px",
-        "offset_section": "0px 0px 0px 0px",
-        "bg_section": "#ffffff",
-        "use_bg_grad2": false,
-        "title": "Asadullah Vai",
-        "inverted": false
-      }
-    },
     "1641461809a3f9d929": {
       "type": "index-featured-products",
       "blocks": {
@@ -1184,7 +1137,6 @@
     "59829a43-d5b7-40e5-8166-13a286498ded",
     "d056196f-f342-45a7-a17d-586a97359f5f",
     "16414608074ede0d57",
-    "e4dffd86-a423-41c7-b600-7b3be2e46b67",
     "1641461809a3f9d929",
     "59c7e1fe-045d-481c-ae81-5940a184a33c",
     "96bad788-1526-4ec9-9b07-d75c2348a844",
